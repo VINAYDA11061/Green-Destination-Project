@@ -26,5 +26,5 @@ https://public.tableau.com/app/profile/vinay.kumar.m/viz/GreenDestinationHRDashb
 ### KPI's :
 ### Calculated Columns:
 Active Employee = SUM([Employee Count])-SUM([Attrition  count])
-Attrition Rate % = SUM([Attrition  count]) / TOTAL(SUM([Employee Count]))
-Attrition Count =  IF [Attrition]="Yes" THEN 1 ELSE 0 END
+<div> Attrition Rate % = SUM([Attrition  count]) / TOTAL(SUM([Employee Count])) </div>
+<div> Attrition Count =  IF [Attrition]="Yes" THEN 1 ELSE 0 END </div>
