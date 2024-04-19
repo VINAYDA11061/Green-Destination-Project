@@ -10,7 +10,6 @@ She would like to know the attrition rate (% of people who left the company).
 She would also know if factors like age, years at the company and income play a part in determining if people will leave or not.
 
 <div align="left">
-  <img height="300" width="800" src="https://successive.cloud/wp-content/uploads/2022/04/Data-Analytics-Benefits-768x403.png"  />
 </div>
 
 ![Green Destination](https://github.com/VINAYDA11061/Green-Destination-Project/assets/125648329/b381cddb-ce11-4a1a-8079-e498b592f377)
