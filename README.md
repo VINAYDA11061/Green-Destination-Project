@@ -10,4 +10,4 @@ She would like to know the attrition rate (% of people who left the company).
 She would also know if factors like age, years at the company and income play a part in determining if people will leave or not.
 
 ## Screenshots
-<img src="https://github.com/VINAYDA11061/Green-Destination-Project/blob/main/Green%20Destination.png alt="Capture" style="max-width: 100%;">
+<a href ="https://github.com/VINAYDA11061/Green-Destination-Project/blob/main/Green%20Destination.png">
