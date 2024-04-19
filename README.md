@@ -14,10 +14,17 @@ She would also know if factors like age, years at the company and income play a 
 <div align="left">
 </div>
 
-![Green Destination](https://github.com/VINAYDA11061/Green-Destination-Project/assets/125648329/b381cddb-ce11-4a1a-8079-e498b592f377)
+![Green Destination HR dashboard](https://github.com/VINAYDA11061/Green-Destination-Project/assets/125648329/43d70b58-e6b1-4ec5-bee1-721f0933fb36)
+
 
 # Tableau Dashboard link : 
 
 https://public.tableau.com/app/profile/vinay.kumar.m/viz/GreenDestinationHRDashboard/Dashboard1?publish=yes 
 
- 
+
+
+KPI's :
+Calculated Columns:
+Active Employee = SUM([Employee Count])-SUM([Attrition  count])
+Attrition Rate % = SUM([Attrition  count]) / TOTAL(SUM([Employee Count]))
+Attrition Count =  IF [Attrition]="Yes" THEN 1 ELSE 0 END
