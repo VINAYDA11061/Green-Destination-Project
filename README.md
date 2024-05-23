@@ -52,15 +52,15 @@ Microsoft Software Power BI
 <div align="left">
 </div>
 
+# PowerBI Dashboard:
+![Attrition dashboard](https://github.com/VINAYDA11061/Green-Destination-Project/assets/125648329/ed1fcdb1-93e2-4fbb-875a-f7794a6af893)
+# Tableau Dashboard :
 ![Green Destination HR dashboard](https://github.com/VINAYDA11061/Green-Destination-Project/assets/125648329/43d70b58-e6b1-4ec5-bee1-721f0933fb36)
 
 
 # Tableau Dashboard link : 
-
 https://public.tableau.com/app/profile/vinay.kumar.m/viz/GreenDestinationHRDashboard/Dashboard1?publish=yes 
 
-# PowerBI dashboard
-![Attrition dashboard](https://github.com/VINAYDA11061/Green-Destination-Project/assets/125648329/ed1fcdb1-93e2-4fbb-875a-f7794a6af893)
 
 
 ### Benefits of attrition analysis:
